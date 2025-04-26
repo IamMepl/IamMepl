@@ -1,7 +1,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IamMepl&fontSize=70&fontAlignY=30&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
+
 --------------------------------
+
 <!-- Header with an Animated Greeting -->
 <h1 align="center">Hi 👋, I'm Mepl</h1>
 
