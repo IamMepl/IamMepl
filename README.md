@@ -34,9 +34,7 @@
 --------------------------------
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=IamMepl&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IamMepl&theme=transparent&hide_border=false" alt="Github Streak" />
 </p>
 
 ------------------------------
