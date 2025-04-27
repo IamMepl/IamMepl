@@ -18,7 +18,7 @@
 
 --------------------------------
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/748925534968348822?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+  <img src="https://lanyard.cnrad.dev/api/748925534968348822?idleMessage=There%20is%20no%20light%20for%20those%20who%20do%20not%20know%20darkness.&theme=&bg=394A56" />
 </p>
 
 --------------------------------
