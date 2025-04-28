@@ -34,13 +34,13 @@
 --------------------------------
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IamMepl&theme=transparent&hide_border=false" alt="Github Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=IamMepl&theme=darcula" />
 </p>
 
 ------------------------------
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamMepl&show_icons=true&theme=transparent"/> <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMepl&layout=compact&langs_count=7&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IamMepl&theme=darcula"/> <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamMepl&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 --------------------------------
