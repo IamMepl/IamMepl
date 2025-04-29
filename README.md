@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A8E4A0&center=true&width=500&lines=Welcome+to+my+Github+Profile!;I'm+Mepl+%F0%9F%91%8B;I'm+still+learning+coding." alt="Typing SVG" />
 </p>
 
+<p align="center"> 
+  <a href="https://ko-fi.com/meplz" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> 
+</p>
+
 -----------------------------------
 <!-- Profile Views Badge -->
 <p align="center">
