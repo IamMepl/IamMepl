@@ -30,7 +30,7 @@
 
 - 🌱 I’m learning **Python** right now.
 
-- ⚡ Fun fact **play games, read manga, watch anime, streaming**
+- ⚡ I like **play games, read manga, watch anime, streaming**
 --------------------------------
 
 ## 🚀 Languages
